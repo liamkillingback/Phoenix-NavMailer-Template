@@ -1,5 +1,7 @@
 # Phoenix Nav Mailer Template
 
+![Alt text](https://prnt.sc/K86iez-Zt49X)
+
 This template includes a fully responsive navbar set up with tab highlighting, once logged in. Additionally has a fully set up free emailing service, just need to create your free account and set up an email template for your use case.
 
 - **Not logged in = "/" and no navbar**
@@ -17,6 +19,7 @@ See page_controller.ex for that info.
 - Copy your template_id under Email Templates -> Settings
 - Copy your publicKey from Account tab
 - Paste them in /assets/js/mailer.js
+- Spin up a database for the auth system
 
 ## Done!
 
