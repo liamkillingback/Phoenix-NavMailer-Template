@@ -1,0 +1,7 @@
+<.flash_group flash={@flash} />
+<%= if @current_user do %>
+    <.side_bar content={@inner_content} current_user={@current_user} isOpen={@isOpen} active_tab={@active_tab}  />
+<% else %>
+    <%= @inner_content %>
+<% end %>
+
