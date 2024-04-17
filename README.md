@@ -1,6 +1,7 @@
 # Phoenix Nav Mailer Template
 
 ![Alt text](https://i.imgur.com/PGZEyUw.png)
+![Alt text](https://i.imgur.com/XxDF0en.png)
 
 This template includes a fully responsive navbar set up with tab highlighting, once logged in. Additionally has a fully set up free emailing service, just need to create your free account and set up an email template for your use case.
 
