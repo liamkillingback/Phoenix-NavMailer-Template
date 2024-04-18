@@ -2,18 +2,18 @@
 
 ## Home Page
 
-![Alt text](https://i.imgur.com/PGZEyUw.png)
-
-## Logged In Dashboard
-
-![Alt text](https://i.imgur.com/XxDF0en.png)
-
 This template includes a fully responsive navbar set up with tab highlighting, once logged in. Additionally has a fully set up free emailing service, just need to create your free account and set up an email template for your use case.
 
 - **Not logged in = "/" and no navbar**
 - **Logged in = "/dashboard" and has Navbar**
 
 See page_controller.ex for that info.
+
+![Alt text](https://i.imgur.com/PGZEyUw.png)
+
+## Logged In Dashboard
+
+![Alt text](https://i.imgur.com/XxDF0en.png)
 
 ## Initial Setup
 
