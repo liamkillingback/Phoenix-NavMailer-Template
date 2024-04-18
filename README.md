@@ -1,6 +1,5 @@
 # Phoenix Nav Mailer Template
 
-## Home Page
 
 This template includes a fully responsive navbar set up with tab highlighting, once logged in. Additionally has a fully set up free emailing service, just need to create your free account and set up an email template for your use case.
 
@@ -8,6 +7,7 @@ This template includes a fully responsive navbar set up with tab highlighting, o
 - **Logged in = "/dashboard" and has Navbar**
 
 See page_controller.ex for that info.
+## Home Page
 
 ![Alt text](https://i.imgur.com/PGZEyUw.png)
 
