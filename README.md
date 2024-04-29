@@ -1,5 +1,6 @@
 # Phoenix Nav Mailer Template
 
+## How to rename the project - [Rename](https://github.com/MainShayne233/rename)
 
 This template includes a fully responsive navbar set up with tab highlighting, once logged in. Additionally has a fully set up free emailing service, just need to create your free account and set up an email template for your use case.
 
